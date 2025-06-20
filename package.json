@@ -7,6 +7,5 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.0"
+  "@whiskeysockets/baileys": "^6.7.18"
   }
-}
