@@ -1,0 +1,12 @@
+{
+  "name": "cryxen2109-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp de CRYXEN²¹⁰⁹",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0"
+  }
+}
