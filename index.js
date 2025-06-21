@@ -1,5 +1,5 @@
 const { default: makeWASocket } = require('@whiskeysockets/baileys');
-const { useSingleFileAuthState } = require('@whiskeysockets/baileys/lib/Utils');
+const { useSingleFileAuthState } = require('@whiskeysockets/baileys/lib/auth-utils');
 const { Boom } = require('@hapi/boom');
 const fs = require('fs');
 
